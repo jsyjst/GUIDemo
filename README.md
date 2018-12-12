@@ -1,2 +1,2 @@
 # GUIDemo
-######Java中对GUI知识的学习
+###### Java中对GUI知识的学习
